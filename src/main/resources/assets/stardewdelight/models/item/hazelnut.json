@@ -1,6 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "stardew_delight:item/hazelnut"
+    "layer0": "stardewdelight:item/hazelnut"
   }
 }
+

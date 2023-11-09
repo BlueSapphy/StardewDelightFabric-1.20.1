@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "stardewdelight:block/hazelnut_bag_top",
+    "down": "stardewdelight:block/hazelnut_bag_bottom",
+    "up": "stardewdelight:block/hazelnut_bag_top",
+    "north": "stardewdelight:block/hazelnut_bag_side_tied",
+    "south": "stardewdelight:block/hazelnut_bag_side_tied",
+    "east": "stardewdelight:block/hazelnut_bag_side",
+    "west": "stardewdelight:block/hazelnut_bag_side"
+  }
+}

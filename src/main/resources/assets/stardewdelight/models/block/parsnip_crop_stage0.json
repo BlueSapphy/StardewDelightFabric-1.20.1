@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "stardewdelight:block/parsnip_crop_stage0"
+  }
+}

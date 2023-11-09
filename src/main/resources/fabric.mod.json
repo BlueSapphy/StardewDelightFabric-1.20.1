@@ -12,7 +12,7 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "MIT",
-	"icon": "assets/stardew-delight/icon.png",
+	"icon": "assets/stardewdelight/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [

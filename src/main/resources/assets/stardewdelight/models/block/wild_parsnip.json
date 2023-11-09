@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "stardewdelight:block/wild_parsnip"
+  }
+}

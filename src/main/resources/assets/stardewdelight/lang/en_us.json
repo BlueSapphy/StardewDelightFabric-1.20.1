@@ -1,3 +1,10 @@
 {
-  "item.stardew_delight.hazelnut": "Hazelnut"
+  "item.stardewdelight.hazelnut": "Hazelnut",
+  "item.stardewdelight.parsnip": "Parsnip",
+  "item.stardewdelight.parsnip_seeds": "Parsnip Seeds",
+
+  "block.stardewdelight.hazelnut_bag": "Bag of Hazelnut",
+  "block.stardewdelight.wild_parsnip": "Wild Parsnip",
+
+  "itemgroup.hazelnut": "Stardew Delight"
 }
